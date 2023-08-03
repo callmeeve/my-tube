@@ -1,17 +1,10 @@
-<<<<<<< HEAD
-=======
-import React from "react";
->>>>>>> 35af4e8bdbfd99afc16f920befdcbf3d74bec346
 import VideoCard from "@/components/VideoCard";
 import MusicCard from "@/components/MusicCard";
 import Link from "next/link";
 import UserLayout from "@/components/UserLayout";
-<<<<<<< HEAD
 import Image from "next/image";
 import Hero from "@/components/Hero";
 import Course from "@/components/Course";
-=======
->>>>>>> 35af4e8bdbfd99afc16f920befdcbf3d74bec346
 
 const videos = [
   {
