@@ -6,7 +6,7 @@ export default function UserLayout({children}) {
   return (
     <>
         <Nav/>
-          {children}
+        {children}
         <Footer/>
     </>
   )
